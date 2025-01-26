@@ -1,0 +1,15 @@
+{
+  "name": "bun-add-elysia-@elysiajs/cors-@types/node",
+  "module": "bun add -D typescript tsx",
+  "type": "module",
+  "devDependencies": {
+    "@types/bcrypt": "^5.0.2",
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@elysiajs/cors": "^1.2.0"
+  }
+}
